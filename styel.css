@@ -1,0 +1,19 @@
+body (
+  background color : #FFFF0;/* warna kuning cerah*/
+  font-fanly:Arial, sans-serif; /* jenis hurufyang bersih dan mudah dibaca */
+  color:#191970;/8 warna teks utama (biru gelap) */
+  
+  )
+  .kartu-profail(
+  width: 300px;
+  margin:50px auto; /* 50px jarak atas/bawah,auto menengahkan kiri/kanan */
+  padding:20;
+  back ground-color:White; 
+  brofer.radlus:15px;/*membuat sudut menjadi melengkung */
+box-shadow: 0 4px 8pxrgba (0,0,0,0,1); /* efek bayangan */
+  text-align:canter
+  )
+  
+  .kartu-profil 10g ( 
+  width:150px;
+  border-redius:50px;/*Trik untuk membuat gambar persegi menjadi lingkaran
